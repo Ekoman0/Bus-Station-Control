@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 9279378e8965c1e4eae957ddf2cca237
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekobuton_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1422
+        width: 728
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80596824b1aca4da3362f25f4e1e93
+      internalID: 1044009737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_11
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1446
+        width: 364
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55693bdcbcba57043b2101817c861b24
+      internalID: 1517444138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_15
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1424
+        width: 369
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a075778cea24de41abf19d84eb25f27
+      internalID: -933264628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_16
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1428
+        width: 371
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743e7839a897944d93e2737100ac93a
+      internalID: 1299166758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_17
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1424
+        width: 369
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70fe63ef220a4d449165e6e9bc37062
+      internalID: 502565838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 448
+        width: 1205
+        height: 897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245cbd3d372db9042a9bd58b36142ce7
+      internalID: -1178186968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_43
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1257
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff67c89eeb4d244b78a874d95d818f
+      internalID: -882716258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_44
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1009
+        width: 291
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7952b34c92de3468c56b76216962ef
+      internalID: -329616922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_46
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1011
+        width: 285
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215abbd17216944caa3b6435b89f378
+      internalID: -1563265697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_47
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1009
+        width: 292
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4340cb07561ce3b4a9cdc54980bdb94b
+      internalID: 348300899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_48
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1002
+        width: 290
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60bbb7501761c54c9ac9fc81e354276
+      internalID: -1198926270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_67
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 588
+        width: 290
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e6c4c3c18c5b469abf8615a87b24c
+      internalID: 536825368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_68
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 578
+        width: 294
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358930c046c7b6f44aac558c5a09f25d
+      internalID: 263499858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_69
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 580
+        width: 291
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574ace21ee039a47848a0528040c51b
+      internalID: 1826810654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_70
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 589
+        width: 286
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b2e7e1f3afeac4fa3daacabd65dd5a
+      internalID: 1237808750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_82
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 219
+        width: 264
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c2139c1e359f84fac8276e6f82dd2e
+      internalID: 800148252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_84
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 201
+        width: 250
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3408c0a42ad6294383fb5557bd49a11
+      internalID: -236501185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_85
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 211
+        width: 235
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a25dcd6f73fe1469f864d288856d32
+      internalID: 2040720321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_89
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 203
+        width: 248
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c73a3e9519ad4981e6f07d2a5c15c
+      internalID: 834756720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_90
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 190
+        width: 999
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9bcce6c969a8144a0c5cebe9a560f2
+      internalID: 1452319610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekobuton_93
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 210
+        width: 242
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7b92ac32783ee48a0ff3901fff6597
+      internalID: -253619985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ekobuton_0: -395913561
+      ekobuton_1: 1213601107
+      ekobuton_10: -1910115306
+      ekobuton_100: 1811874522
+      ekobuton_101: -1129825081
+      ekobuton_11: 1517444138
+      ekobuton_12: -2010286464
+      ekobuton_13: -563741333
+      ekobuton_14: -600399761
+      ekobuton_15: -933264628
+      ekobuton_16: 1299166758
+      ekobuton_17: 502565838
+      ekobuton_18: 761586650
+      ekobuton_19: -1209476824
+      ekobuton_2: 1044009737
+      ekobuton_20: -725178897
+      ekobuton_21: -1699720216
+      ekobuton_22: -1603835907
+      ekobuton_23: 1692850499
+      ekobuton_24: -1032056980
+      ekobuton_25: -290561598
+      ekobuton_26: 716462482
+      ekobuton_27: -1527508901
+      ekobuton_28: 1001203481
+      ekobuton_29: -305644482
+      ekobuton_3: 1465997857
+      ekobuton_30: -644180949
+      ekobuton_31: -1670581100
+      ekobuton_32: 1361079665
+      ekobuton_33: -964217529
+      ekobuton_34: -1379691866
+      ekobuton_35: -919996795
+      ekobuton_36: -745436466
+      ekobuton_37: 1538701858
+      ekobuton_38: -1048642326
+      ekobuton_39: -1178186968
+      ekobuton_4: -1421540872
+      ekobuton_40: -1005472042
+      ekobuton_41: 867992528
+      ekobuton_42: 706982286
+      ekobuton_43: -882716258
+      ekobuton_44: -329616922
+      ekobuton_45: 976149103
+      ekobuton_46: -1563265697
+      ekobuton_47: 348300899
+      ekobuton_48: -1198926270
+      ekobuton_49: 1749923369
+      ekobuton_5: -401244211
+      ekobuton_50: 2045303691
+      ekobuton_51: -1435443069
+      ekobuton_52: 1809433975
+      ekobuton_53: -941424590
+      ekobuton_54: 1006298454
+      ekobuton_55: 1857807983
+      ekobuton_56: -1471592627
+      ekobuton_57: -321368004
+      ekobuton_58: -1888856898
+      ekobuton_59: 1645794026
+      ekobuton_6: -408134644
+      ekobuton_60: -2142631023
+      ekobuton_61: 739015565
+      ekobuton_62: -1713326776
+      ekobuton_63: 445335269
+      ekobuton_64: 1478844880
+      ekobuton_65: -301379111
+      ekobuton_66: -32622864
+      ekobuton_67: 536825368
+      ekobuton_68: 263499858
+      ekobuton_69: 1826810654
+      ekobuton_7: 2030520018
+      ekobuton_70: 1237808750
+      ekobuton_71: -1631850943
+      ekobuton_72: 1695035352
+      ekobuton_73: 149094889
+      ekobuton_74: -167841972
+      ekobuton_75: 887023569
+      ekobuton_76: 1160129687
+      ekobuton_77: -901833403
+      ekobuton_78: 823533792
+      ekobuton_79: 1519683534
+      ekobuton_8: -1585181405
+      ekobuton_80: 2075884409
+      ekobuton_81: -82053272
+      ekobuton_82: 800148252
+      ekobuton_83: 1990893007
+      ekobuton_84: -236501185
+      ekobuton_85: 2040720321
+      ekobuton_86: -119392910
+      ekobuton_87: 1134870128
+      ekobuton_88: -1689311921
+      ekobuton_89: 834756720
+      ekobuton_9: -2108138723
+      ekobuton_90: 1452319610
+      ekobuton_91: -33067039
+      ekobuton_92: -2134031459
+      ekobuton_93: -253619985
+      ekobuton_94: -1546957825
+      ekobuton_95: -730150279
+      ekobuton_96: -1665483663
+      ekobuton_97: -1306677387
+      ekobuton_98: -1584177890
+      ekobuton_99: -1385208662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
